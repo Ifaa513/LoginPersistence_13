@@ -26,8 +26,6 @@
 
 ### 6.	🖼️ Selanjutnya, buat frame baru untuk tampilan menu Login, yaitu dengan cara klik kanan package > New > JFrame form
 
-![LOG8](https://github.com/user-attachments/assets/2f2ff4d5-6c20-41cd-8654-6417c66288db)
-
 ![LOG9](https://github.com/user-attachments/assets/ccc0679f-56cc-40c5-b323-958238e309d2)
 
 ![image](https://github.com/user-attachments/assets/3e06117a-432d-4d49-b1d9-19081a314b76)
